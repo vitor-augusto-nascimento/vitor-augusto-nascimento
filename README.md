@@ -25,6 +25,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Entre em contato comigo! ⚡
-[![GitHub](https://GitHub-vitor-augusto-nascimento)
+[![GitHub](https://github.com/vitor-augusto-nascimento/vitor-augusto-nascimento/tree/main)
 
 
